@@ -9,6 +9,7 @@
 - 2026版playlist:https://www.youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV
 - 中文摘要:从零手写一个语言模型,覆盖数据处理、Tokenization、Transformer架构、训练、并行、推理、评测全流程。目前公认转LLM工程方向最扎实的一门课,业内讨论"转型AI Infra看这个就够"通常指的就是它。
 - 已知讲座(按标题,非精确时间戳):Lecture 1 Overview & Tokenization / Lecture 3 Architectures / Lecture 10 Inference,完整列表见playlist
+- 📝 [Lecture 1 详细时间戳笔记](./notes/cs336-lecture1.md)——已整理
 
 ### Stanford CS230 · Deep Learning
 - playlist:https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
