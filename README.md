@@ -21,9 +21,9 @@
 |---|---|---|
 | [01-小白入门](./01-小白入门) | 完全零基础,想搞懂AI是什么 | Harvard CS50 AI 等 |
 | [02-工程师转Agent](./02-工程师转Agent) | 程序员想转AI Infra/大模型/Agent方向 | Stanford CS336/CS224N/CS230,Georgia Tech CS8803-LLM |
-| [03-投资人](./03-投资人) | 想扫盲AI术语、看懂项目判断力 | Stanford CS336(技术底)+ MIT Sloan(战略判断) |
+| [03-投资人](./03-投资人) | 想扫盲AI术语、看懂项目判断力 | Stanford CS336(技术底)+ DeepLearning.AI AI For Everyone |
 | [04-产品经理](./04-产品经理) | 非技术背景,想做AI产品 | DeepLearning.AI Generative AI for Everyone |
-| [05-创业者](./05-创业者) | 想把AI用到自己生意里 | DeepLearning.AI AI For Everyone + MIT Sloan |
+| [05-创业者](./05-创业者) | 想把AI用到自己生意里 | DeepLearning.AI AI For Everyone + Generative AI for Everyone |
 
 ## 现状 & 想找人一起补
 
