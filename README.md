@@ -1,6 +1,6 @@
-# AI 名校免费课程中文导航
+# AI 真免费资源导航
 
-把几所学校真实开放、免费的 AI 课程,按人群分类整理,配上中文摘要笔记,方便中文读者按图索骥地学。
+把真正免费、不用绕弯子(不用藏在付费页面里找免费入口)的 AI 学习资源,按人群分类整理,配上中文摘要笔记,方便中文读者按图索骥地学。来源包括顶尖学校(Harvard/Stanford/Georgia Tech)和硅谷一线机构(Google、Anthropic、YC、a16z)自己出的免费内容。
 
 ## 这个仓库是什么,不是什么
 
@@ -20,10 +20,10 @@
 | 分类 | 适合谁 | 链接 |
 |---|---|---|
 | [01-小白入门](./01-小白入门) | 完全零基础,想搞懂AI是什么 | Harvard CS50 AI 等 |
-| [02-工程师转Agent](./02-工程师转Agent) | 程序员想转AI Infra/大模型/Agent方向 | Stanford CS336/CS224N/CS230,Georgia Tech CS8803-LLM |
-| [03-投资人](./03-投资人) | 想扫盲AI术语、看懂项目判断力 | Stanford CS336(技术底)+ DeepLearning.AI AI For Everyone |
-| [04-产品经理](./04-产品经理) | 非技术背景,想做AI产品 | DeepLearning.AI Generative AI for Everyone |
-| [05-创业者](./05-创业者) | 想把AI用到自己生意里 | DeepLearning.AI AI For Everyone + Generative AI for Everyone |
+| [02-工程师转Agent](./02-工程师转Agent) | 程序员想转AI Infra/大模型/Agent方向 | Stanford CS336/CS224N/CS230,Georgia Tech CS8803-LLM,+ Google&Kaggle/Anthropic实战workshop |
+| [03-投资人](./03-投资人) | 想扫盲AI术语、看懂项目判断力 | Stanford CS336(技术底)+ a16z「AI at a16z」访谈系列 |
+| [04-产品经理](./04-产品经理) | 非技术背景,想做AI产品 | HelloPM 免费AI产品经理课 |
+| [05-创业者](./05-创业者) | 想把AI用到自己生意里 | Y Combinator Startup School |
 
 ## 现状 & 想找人一起补
 

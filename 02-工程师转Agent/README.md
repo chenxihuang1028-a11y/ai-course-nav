@@ -10,6 +10,7 @@
 - 中文摘要:从零手写一个语言模型,覆盖数据处理、Tokenization、Transformer架构、训练、并行、推理、评测全流程。目前公认转LLM工程方向最扎实的一门课,业内讨论"转型AI Infra看这个就够"通常指的就是它。
 - 已知讲座(按标题,非精确时间戳):Lecture 1 Overview & Tokenization / Lecture 3 Architectures / Lecture 10 Inference,完整列表见playlist
 - 📝 [Lecture 1 详细时间戳笔记](./notes/cs336-lecture1.md)——已整理
+- ⚠️ 这门课还有个"Stanford Online"付费高管教育版本(10周,7875美金,含员工支持和作业批改),我们这里链的是免费YouTube录像,只有录像没有支持和批改,这是免费版本的取舍,别搞混两个版本
 
 ### Stanford CS230 · Deep Learning
 - playlist:https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
@@ -53,5 +54,28 @@
 - 适合:已经过一遍CS336/CS224N这类基础课,想知道"现在LLM研究圈到底在关注什么"的人
 - 提示:这门课偏论文精读,不是从头教你写代码,建议有基础再看
 
+## 实战部分(动手workshop,偏实践)
+
+### Google & Kaggle · 5-Day AI Agents Intensive
+- 官方页面:https://www.kaggle.com/learn-guide/5-day-agents
+- 完全免费,现在是自学形式,累计超过150万学习者
+- ⚠️ 需要注册一个免费Kaggle账号(不涉及信用卡,跟注册GitHub账号性质一样,不是Coursera那种藏起来的免费入口)
+- 中文摘要:用Gemini + Google的Agent Development Kit动手搭一个真agent,已验证的真实主题包括Day1 Agent架构入门、Day2 工具调用与MCP互通、Day3 上下文工程与记忆(完整每日主题以官方页面为准)
+- 适合:想直接上手搭一个能跑的agent,而不是先啃理论的人
+
+### Anthropic · Building Agents with Model Context Protocol(Workshop)
+- 视频:https://www.youtube.com/watch?v=kQmXtrmQ5Zg
+- 完全免费,YouTube直接看,不用登录
+- 主讲:Mahesh Murag(Anthropic)
+- 中文摘要:一场完整的动手workshop,讲怎么用MCP给AI装上"手和脚",实操演示为主
+- 适合:已经知道MCP是什么概念,想看具体怎么动手实现的人
+
+### Anthropic · Code with Claude 开发者大会
+- 主题演讲:https://www.youtube.com/watch?v=EvtPBaaykdo(其他城市站在YouTube搜"Code with Claude"就能找到)
+- 配套workshop材料:https://github.com/anthropic/cwc-workshops
+- 完全免费,演讲YouTube直接看不用登录;workshop仓库公开,可以直接照着做
+- 中文摘要:Anthropic官方开发者大会内容,主题演讲讲行业趋势,workshop仓库是能照着做的实战材料
+- 适合:想跟着Anthropic官方节奏,动手做agent/coding类项目的人
+
 ---
-👉 顺序建议:CS230/CS224N打底 → CS336动手搭一个 → CS8803追前沿。
+👉 顺序建议:CS230/CS224N打底 → CS336动手搭一个 → CS8803追前沿 → 实战部分随时可以插入练手。
